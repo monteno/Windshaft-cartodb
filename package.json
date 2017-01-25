@@ -44,7 +44,7 @@
     "zipfile": "cartodb/node-zipfile#0.5.11-cdb1"
   },
   "devDependencies": {
-    "istanbul": "~0.4.3",
+    "istanbul": "~0.4.5",
     "jshint": "~2.6.0",
     "mocha": "~3.2.0",
     "nock": "~2.11.0",
