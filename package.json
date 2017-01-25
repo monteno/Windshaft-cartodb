@@ -47,10 +47,10 @@
     "istanbul": "~0.4.5",
     "jshint": "~2.6.0",
     "mocha": "~3.2.0",
-    "nock": "^2.11.0",
-    "redis": "^0.8.6",
-    "semver": "^1.1.4",
-    "strftime": "^0.8.2"
+    "nock": ">2.11.0",
+    "redis": ">0.8.6",
+    "semver": ">1.1.4",
+    "strftime": ">0.8.2"
   },
   "scripts": {
     "preinstall": "make pre-install",
